@@ -62,38 +62,45 @@ javac StudentManager.java
 ```
 java StudentManager
 ```
+---
 
-🛠 Tech Stack
-☕ Java SE
+## 🛠 Tech Stack
+- ☕ Java SE
 
-🖥️ Command Line Interface
+- 🖥️ Command Line Interface
 
-🌱 OOP Principles
+- 🌱 OOP Principles
 
-🔧 Git & GitHub
+- 🔧 Git & GitHub
 
-🔮 Future Enhancements
-Store student records in a file or database
+---
 
-Add average and grade calculation
+---
 
-Sort students by marks or names
+# 🔮 Future Enhancements
+- Store student records in a file or database
 
-GUI version using JavaFX or Swing
+- Add average and grade calculation
 
-Add unit testing using JUnit
+- Sort students by marks or names
 
-🙋‍♂️ Author
-Made with ❤️ by HARI PRASATH K
-🚀 Java Developer @ Elevate Lab
+- GUI version using JavaFX or Swing
 
-⭐️ Show Your Support
-If you found this project helpful:
+- Add unit testing using JUnit
 
-🌟 Star this repository
+---
 
-🍴 Fork it for your own use
+## 🙋‍♂️ Author
+- Made with ❤️ by HARI PRASATH K
+- 🚀 Java Developer @ Elevate Lab
 
-📣 Share it with fellow learners
+## ⭐️ Show Your Support
+- If you found this project helpful:
 
-Thank you for visiting! 🙌
+- 🌟 Star this repository
+
+- 🍴 Fork it for your own use
+
+- 📣 Share it with fellow learners
+
+## Thank you for visiting! 🙌
