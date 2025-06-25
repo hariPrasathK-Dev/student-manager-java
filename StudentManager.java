@@ -111,6 +111,7 @@ public class StudentManager
                                     else if(update_choice ==2)
                                     {
                                         System.out.println("Enter the Name to be updated : ") ;
+                                        scanner.nextLine() ;
                                         String update_name = scanner.nextLine() ;
                                         students.get(i).Name = update_name ;
                                         i++ ;
@@ -133,6 +134,11 @@ public class StudentManager
                                         System.err.println("Please enter a valid choice") ;
 
                                     }
+                                }
+                                else
+                                {
+                                    System.err.println("Student with the specified Id doesn;t exist") ;
+                                    i++ ;
                                 }
                             }
 
